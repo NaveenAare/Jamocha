@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".upload">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:orientation="vertical"
+        android:gravity="center_horizontal"
+
+        android:padding="16dp"
+        android:layout_margin="20dp"
+        android:layout_height="wrap_content">
+
+        <ImageView
+            android:layout_width="wrap_content"
+            android:layout_height="200dp"
+            android:scaleType="fitStart"
+            android:visibility="gone"
+
+            android:layout_gravity="left"
+            />
+        <TextView
+            android:id="@+id/register_tv"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_gravity="left"
+            android:layout_marginTop="50dp"
+            android:text="Upload"
+            android:textColor="#000"
+            android:textSize="36sp"/>
+
+        <TextView
+            android:id="@+id/msg_reg_tv"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Upload Book Details..."
+            android:layout_gravity="left"
+            android:textColor="@color/grey"
+            android:textSize="20sp"/>
+        <EditText
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:id="@+id/bookname"
+            android:background="@drawable/edittext_bg"
+            android:layout_marginTop="30dp"
+
+            android:hint="BookName"/>
+
+
+        <EditText
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:id="@+id/author"
+            android:background="@drawable/edittext_bg"
+            android:inputType="textEmailAddress"
+            android:layout_marginTop="20dp"
+
+            android:hint="BookAuthor"/>
+
+        <EditText
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:id="@+id/rating"
+            android:background="@drawable/edittext_bg"
+            android:inputType="numberDecimal"
+            android:layout_marginTop="20dp"
+
+            android:hint="Rating out of 5"/>
+
+        <Button
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Upload"
+            android:paddingLeft="20dp"
+            android:paddingRight="20dp"
+            android:id="@+id/upload"
+            android:drawablePadding="40dp"
+            android:textAllCaps="false"
+            android:layout_gravity="left"
+            android:textSize="18sp"
+            android:drawableRight="@drawable/ic_arrow_img"
+            android:background="@drawable/button_bg"
+            android:layout_marginTop="20dp"
+            android:textColor="#fff"/>
+
+
+    </LinearLayout>
+
+
+</RelativeLayout>

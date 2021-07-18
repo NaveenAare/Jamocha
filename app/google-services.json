@@ -1,0 +1,180 @@
+{
+  "project_info": {
+    "project_number": "99166277494",
+    "firebase_url": "https://latest-songs-download-app.firebaseio.com",
+    "project_id": "latest-songs-download-app",
+    "storage_bucket": "latest-songs-download-app.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:99166277494:android:3753f7228ee2faab30b457",
+        "android_client_info": {
+          "package_name": "com.aarenaveen.gullydukan"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "99166277494-pl72592orj8qb60g4mlbfkef1qrip8k6.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBf3pctV3FIZD_pQ3xjv9A473_MEhtaNPg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "99166277494-pl72592orj8qb60g4mlbfkef1qrip8k6.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:99166277494:android:60ef133b28d89b3c30b457",
+        "android_client_info": {
+          "package_name": "com.example.latestsongsdownloadapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "99166277494-dr9o8ttqn6129f0dk828vke8ogoheqi0.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.latestsongsdownloadapp",
+            "certificate_hash": "f5f121cd60e63097eab403767c89baf609355889"
+          }
+        },
+        {
+          "client_id": "99166277494-pl72592orj8qb60g4mlbfkef1qrip8k6.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBf3pctV3FIZD_pQ3xjv9A473_MEhtaNPg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "99166277494-pl72592orj8qb60g4mlbfkef1qrip8k6.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:99166277494:android:9a6c3476619b4e3030b457",
+        "android_client_info": {
+          "package_name": "com.example.music_admin"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "99166277494-82gte4mmhh5ebriai3nonri2qr6fgp89.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.music_admin",
+            "certificate_hash": "f5f121cd60e63097eab403767c89baf609355889"
+          }
+        },
+        {
+          "client_id": "99166277494-pl72592orj8qb60g4mlbfkef1qrip8k6.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBf3pctV3FIZD_pQ3xjv9A473_MEhtaNPg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "99166277494-pl72592orj8qb60g4mlbfkef1qrip8k6.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:99166277494:android:2a3df28275fde7f330b457",
+        "android_client_info": {
+          "package_name": "com.mynews.jamocha"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "99166277494-pl72592orj8qb60g4mlbfkef1qrip8k6.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBf3pctV3FIZD_pQ3xjv9A473_MEhtaNPg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "99166277494-pl72592orj8qb60g4mlbfkef1qrip8k6.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:99166277494:android:129b96a643c35baf30b457",
+        "android_client_info": {
+          "package_name": "com.naveen.latestsongsdownloadapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "99166277494-pvkt5uvro4ijmhmkbrf4c618ed7ggf52.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.naveen.latestsongsdownloadapp",
+            "certificate_hash": "f5f121cd60e63097eab403767c89baf609355889"
+          }
+        },
+        {
+          "client_id": "99166277494-pl72592orj8qb60g4mlbfkef1qrip8k6.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBf3pctV3FIZD_pQ3xjv9A473_MEhtaNPg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "99166277494-pl72592orj8qb60g4mlbfkef1qrip8k6.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
